@@ -1,0 +1,189 @@
+ body {
+            margin: 0;
+            padding: 0;
+            font-family: sans-serif;
+            background-image: url(shopify\ bg.jpg);
+            background-size: cover;
+            font-family: 'roboto', sans-serif !important;
+        }
+
+        .wrapper {
+            margin-top: -0rem;
+
+        }
+
+        .firstheader {
+            /* text-align: center; */
+            background-color: #E5FBBA;
+            height: 4.2rem;
+            display: flex;
+            align-content: center;
+            justify-content: center;
+           word-spacing: 0.1rem;
+        }      
+        
+        .firsttext {
+           font-weight: 549;
+           font-size: 17.9px;
+           margin-top: 1.5rem;
+        }
+
+        .shopy {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 10.6rem;
+            margin-left: 34.2rem;
+            margin-top: 1.4rem;
+           
+        }
+        .navbar {
+            display: inline;
+          }
+          
+          .navbar a {
+            margin-right: 30px;
+            color: black;
+            margin-top: -3.5rem;
+          }
+        .nav {
+            align-items: right;
+            justify-content: right;
+        }  
+
+        .idea {
+            font-size: 4.2rem;
+            margin-top: 2rem;
+            text-align: center;
+        }
+
+        .para {
+            text-align: center;
+            font-size: 1.4rem;
+        }
+
+        p {
+            margin-top: 2.0rem;
+            font-size: 21.3px;
+        }
+
+        .input {
+            border: none;
+            background-color: rgba(255, 255, 255, 0);
+        }
+
+        .cover {
+            border: black solid;
+            display: flex;
+            justify-content: space-between;
+            border-radius: 2rem;
+            background-color: rgba(255, 255, 255, 0.619);
+            height: 4rem;
+            width:39%;
+            padding: 0.2rem;
+            margin-top: -0.6em;
+
+        }
+
+        .cover input {
+            width: 100%;
+            border: none;
+        }
+
+        .shift {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 2.4rem;
+        }
+
+        button {
+            background-color: black;
+            color: white;
+            border-radius: 2rem;
+            width: 59%;
+            font-weight: 500;
+            font-size: 1.1rem;
+        }
+        .cover #btn {
+            border-radius: 5rem;
+        }
+
+        .input {
+            font-size: 1rem;
+            margin-left: 1rem;
+            outline: none;
+        }
+
+        .free {
+            text-align: center;
+            font-size: x-small;
+            font-size: 0.8rem;
+            margin-top: 2rem;
+        }
+
+        .market {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .market2 {
+            height: 16.9rem;
+            margin-top: 2.9rem;
+
+        }
+
+        .container-fluid {
+            margin-top: 3.4rem;
+        }
+
+        .slide1 {
+            margin-left: 5rem;
+        }
+       
+        .slide1 h4 {
+            font-weight: bolder;
+            margin-top: 1rem;
+        }
+        .slide1 h6 {
+            font-size: 1rem;
+            margin-top: 1rem;
+
+        }
+
+        .slide2 {
+            margin-left: 2rem;
+        }
+       
+        .slide2 h4 {
+            font-weight: bolder;
+            margin-top: 1rem;
+        }
+        .slide2 h6 {
+            font-size: 1rem;
+            margin-top: 1rem;
+        }
+
+        .slide3 {
+            margin-left: 1rem;
+        }
+       
+        .slide3 h4 {
+            font-weight: bolder;
+            margin-top: 1rem;
+         }
+        .slide3 h6 {
+            font-size: 1rem;
+            margin-top: 1rem;
+        }
+
+        .line {
+            border: 1px solid black;
+        /* Additional styling properties */
+        width: 73%;
+        margin-top: 110px;
+        margin-bottom: 40px;
+        margin-left: 10rem;
+        border-color: rgba(0, 0, 0, 0.486);
+                }
